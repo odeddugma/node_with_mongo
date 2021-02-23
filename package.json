@@ -1,0 +1,23 @@
+{
+  "name": "node_with_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odeddugma/node_with_mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odeddugma/node_with_mongo/issues"
+  },
+  "homepage": "https://github.com/odeddugma/node_with_mongo#readme",
+  "dependencies": {
+    "mongoose": "^5.11.17"
+  }
+}
